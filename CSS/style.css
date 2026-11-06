@@ -160,8 +160,10 @@ body {
   color: #ffffff;
 }
 
-.category-btn:hover:not(.active) {
-  background-color: #e2e8f0;
+/* Alterado para ficar azul ao passar o rato (hover) */
+.category-btn:hover {
+  background-color: #008ecc;
+  color: #ffffff;
 }
 
 .banner-container {
